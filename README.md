@@ -38,4 +38,3 @@ Now, the house doesn’t behave like a dog. But it has a dog that the House can 
 code is given in complete project.
 
 <b>@Credits : Subith Premdas</b>
-#for learning purpose
